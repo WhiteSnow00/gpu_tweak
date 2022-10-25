@@ -1,7 +1,5 @@
-id=GPUPerformanceXSeries
-name=GPUXSeries10
-version=v4.0
-versionCode=4
-author=HFZ_Team
-description=V4 (GPUX Series 10 )AIO Tweak up to 90% ( Add New Vulkan Renderer ,Stabilizer FPS - Optimize in Game - RAM & FASTER APP - iPhoneTouchResponsive - Graphic Optimization - iPhoneScrolling improve . etc )
+id=GPU_Mod
+name=GPU_Tweak
+version=1.0
+versionCode=1
 
